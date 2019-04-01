@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714436308549",
+    "firebase_url": "https://restaurant-reviews1.firebaseio.com",
+    "project_id": "restaurant-reviews1",
+    "storage_bucket": "restaurant-reviews1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714436308549:android:acdec745b4b7ce4a",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_reviews_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714436308549-b36vdto6imi155tmgglv17ndbg5dr8vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lpdTYnbzWguKfWPqm-feI-h8zp80s1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
